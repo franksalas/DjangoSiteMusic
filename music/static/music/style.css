@@ -1,9 +1,11 @@
-body{
+body {
     background: white url('images/background.png');
 }
-.navbar{
+
+.navbar {
     border-radius: 0;
 }
-.navbar-brand{
+
+.navbar-brand {
     font-family: 'Satisfy', cursive;
 }
